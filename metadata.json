@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Coach",
+  "description": "An AI-powered full-stack mock interview and resume evaluation platform featuring interactive voice sessions, a coding round editor, resume scoring, JD matching, custom RAG knowledge base, and an analytics dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
